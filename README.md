@@ -1,5 +1,5 @@
 # 💫 About Me:
-Developer | Java Developer | Full Stack Developer | Google Student Ambassador 2025 | Open Source Contributor | Building Real-World Projects
+Developer | Java Developer | Full Stack Developer | Google Student Ambassador 2025 & 2026 | Open Source Contributor | Building Real-World Projects
 
 
 ## 🌐 Socials:
