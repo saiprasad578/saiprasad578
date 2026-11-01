@@ -1,80 +1,72 @@
 
-<!-- ===================== PROFILE HEADER ===================== -->
-
 <div align="center">
 
-# 👋 Hey, I'm Sai Prasad Vuggampally
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:075985,100:38BDF8&height=200&section=header&text=Sai%20Prasad&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=Java%20Developer%20%7C%20Full%20Stack%20Developer&descSize=17&descAlignY=60&animation=fadeIn" width="100%" />
 
-### `Java Developer` · `Full Stack Developer` · `Open Source Contributor`
+# 👋 Hi, I'm Sai Prasad Vuggampally
+
+### Java Developer | Full Stack Developer | Open Source Contributor
 
 **Google Student Ambassador 2025 & 2026**
 
-Building meaningful software, solving real-world problems, and growing through open source.
+Building real-world applications, solving problems, and contributing to open source.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=800&lines=Passionate+Java+Developer;Full+Stack+Application+Builder;Open+Source+Contributor;Always+Learning.+Always+Building.;Turning+Ideas+Into+Real-World+Solutions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Passionate+About+Java+%26+Backend+Development;Open+Source+Contributor;Learning+%7C+Building+%7C+Growing" />
 
 <br/>
 
 <a href="https://github.com/saiprasad578">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Profile-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/sai-prasad-vuggampally-71769035b/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://www.instagram.com/sai_presents/">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="https://x.com/VSaiPrasad66703">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+<a href="mailto:saiprasad78v@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-0284C7?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 <a href="https://medium.com/@saiprasad78v">
-  <img src="https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white" />
-</a>
-
-<a href="mailto:saiprasad78v@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/Medium-Blogs-0F172A?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== ABOUT ME ===================== -->
-
 ## 👨‍💻 About Me
 
 ```java
 public class SaiPrasad {
 
-    static String role = "Java & Full Stack Developer";
-    static String community = "Google Student Ambassador";
-    static String focus = "Building Real-World Applications";
+    String role = "Java & Full Stack Developer";
+    String community = "Google Student Ambassador";
+    String passion = "Building Real-World Software";
 
-    static String[] interests = {
-        "Software Development",
+    String[] interests = {
+        "Java Development",
         "Data Structures & Algorithms",
-        "Open Source",
         "Backend Engineering",
+        "Full Stack Development",
+        "Open Source",
         "Cloud & DevOps"
     };
 
-    public static void main(String[] args) {
-        System.out.println("Learning every day. Building every day.");
+    public void introduce() {
+        System.out.println(
+            "Learning continuously. Building consistently."
+        );
     }
 }
 ```
 
-- 🔭 Working on real-world software development projects.
-- 🌱 Strengthening Java, Spring Boot, DSA and Full Stack Development.
-- 🌍 Actively exploring open-source contributions.
-- 💡 Interested in scalable backend systems and software architecture.
-- 🎯 Focused on becoming a better problem solver and software engineer.
+- 🔭 Building practical, real-world software projects.
+- 🌱 Exploring Java, Spring Boot and Full Stack Development.
+- 💻 Practicing Data Structures and Algorithms.
+- 🌍 Contributing to open-source communities.
+- 🎯 Working towards becoming a skilled Software Engineer.
 
 ---
 
-<!-- ===================== TECH STACK ===================== -->
-
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
 
 ### Programming Languages
 
@@ -102,105 +94,91 @@ public class SaiPrasad {
 
 ---
 
-<!-- ===================== CURRENT FOCUS ===================== -->
+## 🚀 What I'm Currently Focusing On
 
-## 🚀 Current Focus
-
-| Area | What I'm Learning & Building |
-|---|---|
-| Java Development | Core Java, OOP, Collections, Multithreading |
-| Backend Engineering | Spring Boot, REST APIs, Authentication |
-| Full Stack | React, JavaScript, Node.js |
-| Problem Solving | DSA, Algorithms, LeetCode |
-| Open Source | Real-world contributions and collaboration |
+| Domain | Focus |
+|:---|:---|
+| Java | OOP, Collections, Multithreading |
+| Backend | Spring Boot, REST APIs |
+| Frontend | React, JavaScript, TypeScript |
+| DSA | Problem Solving, Algorithms |
+| Open Source | Community Contributions |
 | DevOps | Docker, Linux, Jenkins, AWS |
 
 ---
 
-<!-- ===================== ACHIEVEMENTS ===================== -->
-
-## 🏆 Achievements & Milestones
+## 🏆 Achievements & Recognition
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Google_Student_Ambassador-2025_&_2026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Student%20Ambassador-2025%20%26%202026-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 
-<img src="https://img.shields.io/badge/GitHub-1K%2B_Commit_Milestone-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-1K%2B%20Commits-0F172A?style=for-the-badge&logo=github&logoColor=white" />
 
-<img src="https://img.shields.io/badge/Consistency-370%2B_Days-2EA44F?style=for-the-badge&logo=github&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Open_Source-SWoC_&_Community_Contributions-orange?style=for-the-badge&logo=opensourceinitiative&logoColor=white" />
+<img src="https://img.shields.io/badge/Coding%20Consistency-370%2B%20Days-0284C7?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
-- 🌟 Recognized as a Google Student Ambassador.
-- 💻 Achieved 1K+ GitHub commits milestone.
-- 🔥 Maintained 370+ days of coding consistency.
-- 🌍 Contributed to open-source projects and developer communities.
-- 🚀 Worked with projects including Kolibri and OpenELIS Global.
+- 🌟 Google Student Ambassador – 2025 & 2026.
+- 💻 Achieved 1K+ GitHub commits.
+- 🔥 Built a long-term GitHub consistency streak.
+- 🌍 Participated in open-source programs including SWoC.
+- 🚀 Contributed to projects including Kolibri and OpenELIS Global.
 
 ---
-
-<!-- ===================== GITHUB ANALYTICS ===================== -->
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
 <a href="https://github.com/saiprasad578">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=saiprasad578&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=saiprasad578&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&cache_seconds=86400" />
 </a>
+
+<a href="https://streak-stats.demolab.com/?user=saiprasad578&theme=tokyonight&hide_border=true">
+<img width="49%" src="https://streak-stats.demolab.com/?user=saiprasad578&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/><br/>
 
 <a href="https://github.com/saiprasad578">
-<img height="180em" src="https://streak-stats.demolab.com?user=saiprasad578&theme=tokyonight&hide_border=true" />
+<img width="50%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=saiprasad578&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </a>
 
-<br/>
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
 
 <a href="https://github.com/saiprasad578">
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saiprasad578&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://ghstats.dev/api/card?username=saiprasad578&theme=tokyonight" width="100%" alt="GitHub activity overview" />
 </a>
 
 </div>
 
 ---
 
-<!-- ===================== CONTRIBUTION GRAPH ===================== -->
-
-## 🐍 Contribution Graph
+## 🤝 Let's Connect
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/saiprasad578/saiprasad578/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%" />
+**I'm always interested in collaborating on meaningful projects, exploring new technologies, and contributing to open source.**
 
-</div>
+<a href="https://github.com/saiprasad578">GitHub</a> •
+<a href="https://www.linkedin.com/in/sai-prasad-vuggampally-71769035b/">LinkedIn</a> •
+<a href="https://www.instagram.com/sai_presents/">Instagram</a> •
+<a href="https://x.com/VSaiPrasad66703">X</a> •
+<a href="mailto:saiprasad78v@gmail.com">Email</a>
 
----
+<br/><br/>
 
-<!-- ===================== PROFILE VISITORS ===================== -->
+<img src="https://komarev.com/ghpvc/?username=saiprasad578&label=PROFILE%20VIEWS&color=0284C7&style=for-the-badge" />
 
-## 👀 Profile Visitors
+### 💙 Keep Learning. Keep Building. Keep Growing.
 
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=saiprasad578&label=PROFILE%20VIEWS&color=38BDF8&style=for-the-badge" />
-
-</div>
-
----
-
-<!-- ===================== FOOTER ===================== -->
-
-<div align="center">
-
-### 💫 My Developer Philosophy
-
-*"Great things are built through consistency, curiosity, and continuous improvement."*
-
-**Thanks for visiting my profile!**
-
-### Let's Connect, Collaborate & Build Something Amazing. 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:0369A1,100:38BDF8&height=120&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:38BDF8,50:075985,100:020617&height=120&section=footer" width="100%" />
 
 </div>
